@@ -34,6 +34,8 @@ INT32 main()
 {
     FindStackDirection();
 
+    FindStackDirection();
+
     return 0; 
 }
 
